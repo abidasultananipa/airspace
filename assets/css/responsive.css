@@ -1,0 +1,164 @@
+@media (min-width: 0px) and (max-width: 575px){
+    /* nav start */
+.navbar .navbar-nav > li > a {
+    padding: 10px;
+}
+/* nav end */
+
+/* banner section start */
+.banner{
+    padding: 120px 0;
+}
+.banner .block h1 {
+    font-size: 32px;
+    line-height: 50px;
+    letter-spacing: 5px;
+}
+.banner .block p {
+    font-size: 15px;
+    line-height: 20px;
+}
+.FBT {
+    font-size: 10px;
+    padding: 14px 15px;
+}
+/* banner section end */
+
+/* about-section start */
+.about-section{
+    padding: 50px 40px;
+}
+.about .title h2 {
+    padding-top: 30px;
+    margin-bottom: 5px;
+}
+/* about-section end */
+
+/* feature section start */
+.feature-section {
+    padding: 80px 40px;
+}
+/* feature section end */
+
+/* Service section start */
+.service {
+    padding: 70px 60px;
+}
+.section-title {
+    margin-bottom: 50px;
+}
+.service .service-item i {
+    font-size: 40px;
+    padding: 15px 0px;
+}
+.service .service-item h4 {
+    padding-top: 10px;
+    font-size: 18px;
+}
+.service .service-item p {
+    padding-top: 8px;
+}
+/* Service section end */
+
+/* story section start */
+.story-section {
+    padding: 70px 20px;
+}
+.story-title p {
+    line-height: 1.5;
+}
+.tell-story{
+    font-size: 10px;
+    padding: 15px 25px;
+}
+/* story section end */
+
+/* footer start */
+.footer {
+    padding: 60px 0;
+}
+.footer .footer-manu ul li {
+    padding: 10px 5px;
+}
+.footer p {
+    font-size: 13px;
+}
+/* footer end */
+}
+
+@media (min-width: 576px) and (max-width: 767px){
+  /* nav start */
+.navbar .navbar-nav > li > a {
+    padding: 8px;
+}
+/* nav end */
+
+/* banner section start */
+.banner{
+    padding: 120px 0;
+}
+.banner .block h1 {
+    font-size: 40px;
+}
+.banner .block p {
+    font-size: 18px;
+    line-height: 25px;
+}
+.FBT {
+    font-size: 10px;
+    padding: 20px;
+}
+/* banner section end */
+
+/* about-section start */
+.about-section{
+    padding: 70px 40px;
+}
+/* about-section end */
+
+/* Service section start */
+.service {
+    padding: 100px 0px;
+}
+.section-title {
+    margin-bottom: 50px;
+}
+/* Service section end */
+/* footer start */
+.footer .footer-manu ul li {
+    padding: 10px 10px;
+}
+/* footer end */
+}
+
+@media (min-width: 768px) and (max-width: 991px){
+ /* nav start */
+.navbar .navbar-nav > li > a {
+    padding: 10px;
+}
+/* nav end */
+
+/* banner section start */
+.banner{
+    padding: 150px 0;
+}
+.FBT {
+    font-size: 13px;
+    padding: 15px 20px;
+}
+/* banner section end */
+
+/* about-section start */
+.about-section{
+    padding: 70px 0px;
+}
+/* about-section end */
+}
+
+@media (min-width: 992px) and (max-width: 1199px){
+/* banner section start */
+.banner{
+    padding: 180px 0;
+}
+/* banner section end */
+}
